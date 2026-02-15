@@ -1,0 +1,24 @@
+# Mac system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Large ML folders
+data/
+models/
+
+# Model files
+*.pkl
+*.h5
+*.pt
+
+# Output folders (optional)
+results/
+reports/
