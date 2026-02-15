@@ -236,4 +236,4 @@ The project follows a modular and organized structure separating raw data, proce
 
 ## 📂 Google Drive
 All the files and folder where uploaded in google drive because there is large file which is not uploaded in github because it doesnot have capacity for uploade so.
-drive link:- 
+drive link:- https://drive.google.com/drive/folders/1XqZnO32RapxG3tPm6NwJpAujRiOgvApH?usp=sharing
